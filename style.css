@@ -10,7 +10,7 @@
 }
 
 .logo {
-	width: 200px;	
+	width: 16vw;	
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
@@ -29,12 +29,13 @@
 	color: #fff;
 	text-align: center;
 	width: 90%;
-	top: 50%;
+	top: 50vh;
 /*	transform: translateY(-50%);*/
 }
 
 .header-text h1 {
 	font-size: 12vw;
+	font-weight: bold;
 }
 
 .header-text h3 {
@@ -619,7 +620,7 @@ footer{
 /**Media Query*/
 @media only screen and (max-width: 770px){
 		.header-text {
-			top: 30%;
+			top: 20vh;
 			width: 80%;
 		}
 		
