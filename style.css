@@ -623,12 +623,12 @@ footer{
 /**Media Query*/
 @media only screen and (max-width: 770px){
 		.header-text {
-			top: 17vh;
+			top: 20vh;
 			width: 80%;
 		}
 		
 		.header-text h1 {
-			font-size: 10vw;
+			font-size: 2vw;
 		}
 
 		.header-text h3 {
