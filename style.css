@@ -632,7 +632,7 @@ footer{
 		}
 
 		.header-text h3 {
-			font-size: 5vw;
+			font-size: 3vw;
 }
 		.about-container h1 {
 			font-size: 5vw;
@@ -646,6 +646,10 @@ footer{
 			font-size: 1.3em;
 			font-weight: bold;
 			margin-left: 60px;
+		}
+		
+		#menuBtn {
+			width: 10vw;
 		}
 		
 		.buy-form {
