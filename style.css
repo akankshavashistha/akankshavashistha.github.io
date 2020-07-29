@@ -740,3 +740,19 @@ footer{
 			padding-left: 160px;
 		}
 }
+
+@media only screen and (max-width: 350px){
+		.header-text {
+			top: 20vh;
+			width: 80%;
+			left: 10px;
+		}
+		
+		.header-text h1 {
+			font-size: .9vw;
+		}
+
+		.header-text h3 {
+			font-size: 1vw;
+}
+}
