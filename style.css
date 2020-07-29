@@ -748,7 +748,7 @@ footer{
 		}
 		
 		.header-text h1 {
-			font-size: 1vw;
+			font-size: 3vw;
 		}
 
 		.header-text h3 {
@@ -756,5 +756,6 @@ footer{
 		}
 		.text h2 {
 			margin-left: 25px;
+			font-size: 6vw;
 		}
 }
