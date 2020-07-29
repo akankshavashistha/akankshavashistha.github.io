@@ -746,8 +746,7 @@ footer{
 @media only screen and (max-width: 350px){
 		.header-text {
 			top: 20vh;
-			width: 80%;
-			left: 7px;
+			width: 100%;
 		}
 		
 		.header-text h1 {
@@ -759,10 +758,17 @@ footer{
 		}
 		.text h2 {
 			margin-left: 2px;
-			font-size: 8vw;
+			font-size: 10vw;
+		}
+		.quote-container {
+			margin: 5px 0;
 		}
 		.quote-container p {
 			font-size: 90%;
-			padding-top: 10px;
+			padding-top: 5px;
+		}
+		.buy-form {
+			padding-left: 20px;
+			max-width: 70%;
 		}
 }
