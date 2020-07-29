@@ -648,6 +648,8 @@ footer{
 			margin-left: 60px;
 		}
 		
+		
+		
 		#menuBtn {
 			width: 10vw;
 		}
@@ -748,14 +750,17 @@ footer{
 		}
 		
 		.header-text h1 {
-			font-size: 3vw;
+			font-size: 8vw;
 		}
 
 		.header-text h3 {
 			font-size: 1vw;
 		}
 		.text h2 {
-			margin-left: 25px;
-			font-size: 6vw;
+			margin-left: 2px;
+			font-size: 1vw;
+		}
+		.quote-container p {
+			font-size: 60%;
 		}
 }
