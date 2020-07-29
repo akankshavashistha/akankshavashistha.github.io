@@ -745,14 +745,16 @@ footer{
 		.header-text {
 			top: 20vh;
 			width: 80%;
-			left: 10px;
 		}
 		
 		.header-text h1 {
-			font-size: .9vw;
+			font-size: 1vw;
 		}
 
 		.header-text h3 {
 			font-size: 1vw;
-}
+		}
+		.text h2 {
+			margin-left: 25px;
+		}
 }
